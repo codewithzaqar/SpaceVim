@@ -6,3 +6,7 @@ class Config:
         "cursor": "#89b4fa",
     }
     FONT = ("Courier", 12)
+    SHORTCUTS = {
+        "toggle_sidebar": "<Control-b>",
+        "command_palette": "<Control-p>",
+    }
