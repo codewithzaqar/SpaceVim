@@ -20,3 +20,4 @@ A lightweight text editor inspired by SpaceVim, built using Python's `tkinter`.
 `python main.py`
 
 ## Screenshots
+![Screenshot](./Screenshot%202025-01-20%20170242.png)
